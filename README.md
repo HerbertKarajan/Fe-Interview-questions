@@ -261,5 +261,3 @@
 
 **声明：** 版权归原作者所有，我只是搬运工。
 
-**Photo Credit：**[Negative Space](https://unsplash.com/photos/6g0KJWnBhxg)
-
