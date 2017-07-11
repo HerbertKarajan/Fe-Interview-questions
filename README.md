@@ -8,8 +8,7 @@
 会持续更新的哦！不过鉴于广大网友们的想法，我拆成了N个小文件，方便大家记忆看到哪儿了，好做笔记等。
 
 另外，如果大家在面试过程中遇到了一些问题不会，可以把问题，提到这里：
-https://github.com/HerbertKarajan/Fe-Interview-questions/wiki/%E4%B8%8D%E6%87%82%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%8F%90%E5%88%B0%E8%BF%99%E9%87%8C%EF%BC%8C%E4%B8%80%E8%B5%B7%E5%AF%BB%E6%B1%82%E8%A7%A3%E5%86%B3  
-
+https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 我们一起寻求解决。
 
 #### 目录
