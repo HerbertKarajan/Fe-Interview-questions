@@ -7,6 +7,8 @@
 
 会持续更新的哦！不过鉴于广大网友们的想法，我拆成了N个小文件，方便大家记忆看到哪儿了，好做笔记等。
 
+另外，如果大家在面试过程中遇到了一些问题不会，可以把问题，提到这里：https://github.com/HerbertKarajan/Fe-Interview-questions.wiki.git  我们一起俩寻求解决。
+
 #### 目录
     readme
         1.md
