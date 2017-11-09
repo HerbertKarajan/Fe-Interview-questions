@@ -34,6 +34,7 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
         19.md
         20.md
         21.md
+        22.md
 
 
 ### 陆续更新......
