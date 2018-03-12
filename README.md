@@ -132,10 +132,6 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 
 ## [GitHub上值得关注的前端项目](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/08-github-FE-project-master)
 
-作者： trigkit4    https://github.com/hawx1993
-
-源地址：https://github.com/hawx1993/github-FE-project
-
 
 ## [前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/09-front-end-collect-master)
 
@@ -234,10 +230,6 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 源地址：https://mdluo.github.io/blog/about-front-end-interview/
 
 ## [前端面试问题集锦](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/21-Front-end-Interview-questions)
-
-作者： trigkit4    https://github.com/hawx1993
-
-源地址：https://github.com/hawx1993/Front-end-Interview-questions
 
 
 ## [前端工作面试问题](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/22-Front-end-Developer-Interview-Questions-master)
