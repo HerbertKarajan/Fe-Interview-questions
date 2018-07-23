@@ -44,7 +44,8 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
 
-
+<br>
+## [最近有人问我react的面试题，我总结了一些，供大家参考学习](https://www.cnblogs.com/wangking/p/9354368.html)
 <br>
 
 ## [结合个人经历总结的前端入门方法](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/01-FE-learning-master)
