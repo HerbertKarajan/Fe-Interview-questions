@@ -54,6 +54,8 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 
 <br>
 
+##[常用数组操作包含ES6的](https://www.cnblogs.com/wangking/p/9722467.html)
+
 ## [结合个人经历总结的前端入门方法](https://github.com/HerbertKarajan/Fe-Interview-questions/tree/master/01-FE-learning-master)
 
 
