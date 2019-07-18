@@ -42,6 +42,9 @@ https://github.com/HerbertKarajan/Fe-Interview-questions/issues/1
 
 ### 陆续更新......
 
+# 各位战友们，给大家整了一个更好的一套面试题，有兴趣的，可以看看
+## .[JavaScript面试题](https://github.com/HerbertKarajan/javascript-questions)
+
 # 在GitHub上收集的最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
 
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
